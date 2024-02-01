@@ -29,7 +29,7 @@ function showMessage(response){
         yesMessage.style.display = "block";
         yesMessage.style.fontSize = "normal";
 
-        document.getElementsByClassName("image")[0].src = "images/danceCat.gif";
+        document.getElementsByClassName("image")[0].src = "images/woopsiFace.jpg";
 
         document.getElementById("yesButton").remove();
     }
